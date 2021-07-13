@@ -35,7 +35,7 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 # Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FProBoy-X%2FKakashi&template=https%3A%2F%2Fgithub.com%2FProBoy-X%2FKakashi)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDARKAMAN5%2FDARKX-V2&template=https%3A%2F%2Fgithub.com%2FDARKAMAN5%2FDARKX-V2)
 
 
  
