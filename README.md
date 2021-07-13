@@ -7,21 +7,21 @@
 
 ᴋᴀᴋᴀsʜɪ ʜᴀᴛᴀᴋᴇ ɪs ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ [ᴍᴇ](https://github.com/JassManak1125) ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘ..
 
-Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/HatakeRobot) sᴜᴘᴇʀʙᴏᴛ ʙʏ ᴀᴅᴅɪɴɢ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. 
+Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/DARKXV2BOT) sᴜᴘᴇʀʙᴏᴛ ʙʏ ᴀᴅᴅɪɴɢ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. 
 
 <p align="center">
   <img src="https://telegra.ph/file/bf975a8c78216014b172e.jpg">
 </p>
                      
 <p align="center">
-    <a href="https://github.com/ProBoy-X/Kakashi/stargazers"><img src="https://img.shields.io/github/stars/ProBoy-X/Kakashi?label=Stars&style=flat-square&logo=github&color=F10070" alt="✨Stars✨" /></a>
+    <a href="https://github.com/DARKAMAN5/DARKX-V2/stargazers"><img src="https://img.shields.io/github/stars/DARKAMAN5/DARKX-V2?label=Stars&style=flat-square&logo=github&color=F10070" alt="✨Stars✨" /></a>
 </p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/ProBoy-X/Kakashi/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="💻Codacy💻" /></a>
-    <a href="https://github.com/ProBoy-X/Kakashi"> <img src="https://img.shields.io/github/repo-size/ProBoy-X/Kakashi?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.comProBoy-X/Kakashi/commits/prince"> <img src="https://img.shields.io/github/last-commit/ProBoy-X/Kakashi?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/ProBoy-X/Kakashi/issues"> <img src="https://img.shields.io/github/issues/ProBoy-X/Kakashi?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/ProBoy-X/Kakashi/network/members"> <img src="https://img.shields.io/github/forks/ProBoy-X/Kakashi?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/DARKAMAN5/DARKX-V2/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="💻Codacy💻" /></a>
+    <a href="https://github.com/DARKAMAN5/DARKX-V2"> <img src="https://img.shields.io/github/repo-size/ProBoy-X/Kakashi?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.comDARKAMAN5/DARKX-V2/commits/prince"> <img src="https://img.shields.io/github/last-commit/ProBoy-X/Kakashi?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/DARKAMAN5/DARKX-V2/issues"> <img src="https://img.shields.io/github/issues/ProBoy-X/Kakashi?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/DARKAMAN5/DARKX-V2/network/members"> <img src="https://img.shields.io/github/forks/ProBoy-X/Kakashi?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
