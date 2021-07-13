@@ -18,7 +18,7 @@ Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/DARKXV2BOT) sᴜᴘᴇʀʙᴏᴛ ʙʏ �
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/Darkaman5/Darkx-v2/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="💻Codacy💻" /></a>
-    <a href="https://github.com/Darkx-v2/Darkx-v2"> <img src="https://img.shields.io/github/repo-size/Darkaman5/Darkx-v2?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Darkaman5/Darkx-v2"> <img src="https://img.shields.io/github/repo-size/Darkaman5/Darkx-v2?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.comDarkaman5/Darkx-v2/commits/Darkaman5"> <img src="https://img.shields.io/github/last-commit/Darkaman5/Darkx-v2?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Darkaman5/Darkx-v2/issues"> <img src="https://img.shields.io/github/issues/Darkaman5/Darkx-v2?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Darkaman5/Darkx-v2/network/members"> <img src="https://img.shields.io/github/forks/Darkaman5/Darkx-v2?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
