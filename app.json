@@ -1,16 +1,16 @@
 {
-      "name": "Kakashi RoBot",
+      "name": "DARKX V2 RoBot",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/bf975a8c78216014b172e.jpg", 
+      "logo": "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg", 
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "kakashi"
+         "darkxv2"
       ],   
      
-   "repository": "https://t.me/Its_JassManak",
+   "repository": "https://t.me/Darkaman5",
    "addons": [
       {
          "options": {
