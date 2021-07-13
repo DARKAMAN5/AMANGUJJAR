@@ -10,7 +10,7 @@
 Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/DARKXV2BOT) sᴜᴘᴇʀʙᴏᴛ ʙʏ ᴀᴅᴅɪɴɢ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. 
 
 <p align="center">
-  <img src="https://telegra.ph/file/bf975a8c78216014b172e.jpg">
+  <img src="https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg">
 </p>
                      
 <p align="center">
