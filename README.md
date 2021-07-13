@@ -45,10 +45,12 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 ## • Jᴀss Mᴀɴᴀᴋ  »»  <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b0559d?logo=github" /></a>
 
+## • Pʀᴏ Bᴏʏ x  »»  <a href="https://github.com/ProBoy-X" alt="PʀᴏBᴏʏx"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏx-b0559d?logo=github" /></a>
+
 ## • Yᴏɴᴇ Rᴏʙᴏᴛ  »»  <a href="https://github.com/noob-kittu/YoneRobot" alt="Yᴏɴᴇ Rᴏʙᴏᴛ"> <img src="https://img.shields.io/badge/Yᴏɴᴇ Rᴏʙᴏᴛ-47f8eb?logo=github" /></a>
 
 
-Tʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ [Jᴀss Mᴀɴᴀᴋ](https://t.me/Its_JassManak)...
+Tʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ [Dᴀʀᴋ Aᴍᴀɴ](https://t.me/DARKAMAN)...
 
 Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ ᴍᴇ ғᴏʀ ᴍʏ ʜᴀʀᴅ ᴡᴏʀᴋ..😉
 
