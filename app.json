@@ -1,16 +1,16 @@
 {
-      "name": "DARKX-V2",
+      "name": "DARKX-V2 RoBot",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg", 
+      "logo": "https://telegra.ph/file/bf975a8c78216014b172e.jpg", 
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "darkx"
+         "kakashi"
       ],   
      
-   "repository": "https://t.me/Darkaman",
+   "repository": "https://t.me/DARKAMAN",
    "addons": [
       {
          "options": {
@@ -108,7 +108,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Kakashi support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1619759800"
+         "value": "1883752632"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -122,22 +122,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1619759800"
+         "value": "1883752632"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1619759800"
+         "value": "1883752632"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1619759800"
+         "value": "1883752632"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1619759800"
+         "value": "1883752632"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
