@@ -52,5 +52,6 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 Tʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ [Dᴀʀᴋ Aᴍᴀɴ](https://t.me/DARKAMAN)...
 
-Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ ᴍᴇ ғᴏʀ ᴍʏ ʜᴀʀᴅ ᴡᴏʀᴋ..😉
+Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b0559d?logo=github" /></a>  <a href="https://github.com/ProBoy-X" alt="PʀᴏBᴏʏx"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏx-b0559d?logo=github" /></a>
+    ..😉
 
