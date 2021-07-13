@@ -17,9 +17,9 @@ Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/DARKXV2BOT) sᴜᴘᴇʀʙᴏᴛ ʙʏ �
     <a href="https://github.com/Darkaman5/Dark-v2/stargazers"><img src="https://img.shields.io/github/stars/Darkaman5/Darkx-v2?label=Stars&style=flat-square&logo=github&color=F10070" alt="✨Stars✨" /></a>
 </p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/DARKAMAN5/DARKX-V2/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="💻Codacy💻" /></a>
-    <a href="https://github.com/DARKAMAN5/DARKX-V2"> <img src="https://img.shields.io/github/repo-size/DARKAMAN5/DARKX-V2?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.comDARKAMAN5/DARKAMAN5-V2/commits/DARKAMAN5"> <img src="https://img.shields.io/github/last-commit/DARKAMAN5/DARKX-V2?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://app.codacy.com/manual/Darkaman/Darkx-v2/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="💻Codacy💻" /></a>
+    <a href="https://github.com/Darkaman5/Darkx-v2"> <img src="https://img.shields.io/github/repo-size/Darkaman5/Darkx-v2?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.comDarkaman5/Darkx-v2/commits/Darkaman5"> <img src="https://img.shields.io/github/last-commit/Darkaman5/Darkx-v2?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Darkaman5/Darkx-v2/issues"> <img src="https://img.shields.io/github/issues/Darkaman5/Darkx-v2?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Darkaman5/Darkx-v2/network/members"> <img src="https://img.shields.io/github/forks/Darkaman5/Darkx-v2?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -35,7 +35,7 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 # Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDARKAMAN5%2FDARKX-V2&template=https%3A%2F%2Fgithub.com%2FDARKAMAN5-X%2FDARKX-V2)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDarkaman5%2FDarkx-v2&template=https%3A%2F%2Fgithub.com%2FDarkaman5-X%2FDark-v2)
 
 
  
