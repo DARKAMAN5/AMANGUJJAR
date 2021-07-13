@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴅᴀʀᴋ ᴠ2.0..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg)
+Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴅᴀʀᴋ ᴠ2.0..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg)
 
 Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪɴ ᴘᴏᴡᴇʀ ᴀɴᴅ ᴛʜᴇɴ sᴇᴇ..
 
@@ -102,7 +102,7 @@ HELP_STRINGS = """
 ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴅᴀʀᴋx](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg) ʜᴇʀᴇ.
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ.."""
 
-yone_IMG = "https://telegra.ph/file/ac9a5c9419c9013663d62.jpg"
+yone_IMG = "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate! Actually I don't need money..
  You can support us by promoting our bot.. \
