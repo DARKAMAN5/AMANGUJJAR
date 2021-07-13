@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴋᴀᴋᴀsʜɪ ʜᴀᴛᴀᴋᴇ..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg)
+Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴅᴀʀᴋ ᴠ2.0..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg)
 
 Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪɴ ᴘᴏᴡᴇʀ ᴀɴᴅ ᴛʜᴇɴ sᴇᴇ..
 
@@ -84,12 +84,12 @@ Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪ�
 buttons = [
     [
         InlineKeyboardButton(
-            text="👥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs👥", url="t.me/HatakeRoBot?startgroup=true"),
+            text="👥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs👥", url="t.me/DARKXV2BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
-            text="🤓sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤓", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="🤓sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤓", url=f"https://t.me/{https://t.me/DARKV2SUPPORT}"
         ),
     ],
     [
@@ -99,7 +99,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴋᴀᴋᴀsʜɪ](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg) ʜᴇʀᴇ.
+ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴅᴀʀᴋx](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg) ʜᴇʀᴇ.
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ.."""
 
 yone_IMG = "https://telegra.ph/file/ac9a5c9419c9013663d62.jpg"
@@ -359,8 +359,8 @@ def yone_about_callback(update, context):
                  \n❍ I ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ sʏsᴛᴇᴍ, ʙʟᴀᴄᴋʟɪsᴛs, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇs ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅs.
                  \n❍ I ᴄʜᴇᴄᴋ ғᴏʀ ᴀᴅᴍɪɴs' ᴘᴇʀᴍɪssɪᴏɴs ʙᴇғᴏʀᴇ ᴇxᴇᴄᴜᴛɪɴɢ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴍᴏʀᴇ sᴛᴜғғs
                  \n\n_ᴋᴀᴋᴀsʜɪ's ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ GNU Gᴇɴᴇʀᴀʟ Pᴜʙʟɪᴄ Lɪᴄᴇɴsᴇ ᴠ3.0_
-                 \nHᴇʀᴇ ɪs ᴛʜᴇ [💾Rᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/ProBoy-X/Kakashi).
-                 \n\nIғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴏ̨ᴜᴇsᴛɪᴏɴ ᴀʙᴏᴜᴛ ʏᴏɴᴇ, ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ @Kᴀᴋᴀsʜɪ_Sᴜᴘᴘᴏʀᴛ.""",
+                 \nHᴇʀᴇ ɪs ᴛʜᴇ [💾Rᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/Darkaman5/Darkx-v2).
+                 \n\nIғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴏ̨ᴜᴇsᴛɪᴏɴ ᴀʙᴏᴜᴛ ʏᴏɴᴇ, ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ @DARKV2SUPPORT.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -387,7 +387,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Heyy, I'm Kakashi Hatake
-                 \nHere is the [Source Code](https://github.com/ProBoy-X/Kakashi) .""",
+                 \nHere is the [Source Code](https://github.com/Darkaman5/Darkx-v2) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -634,7 +634,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 254318997 and DONATION_LINK:
+        if OWNER_ID !=1619759800 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
