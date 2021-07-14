@@ -52,7 +52,7 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 Tʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ [DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN)...
 
-Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b07677d?logo=github" /></a> ᴀɴᴅ <a href="https://github.com/ProBoy-X/Kakashi" alt="PʀᴏBᴏʏ-X"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏ-X-b0559d?logo=github" /></a>
+Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b07677d?logo=github" /></a> ᴀɴᴅ <a href="https://github.com/ProBoy-X/Kakashi" alt="PʀᴏBᴏʏ-X"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏ-X-b8837d?logo=github" /></a>
 
   ғᴏʀ ʜᴇʀ ʜᴀʀᴅ ᴡᴏʀᴋ..😉
 
