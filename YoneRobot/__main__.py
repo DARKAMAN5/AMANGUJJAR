@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴅᴀʀᴋ ᴠ2.0..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg)
+Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ 𓆩ɖǟʀӄӼɮօȶ𓆪..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg)
 
 Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪɴ ᴘᴏᴡᴇʀ ᴀɴᴅ ᴛʜᴇɴ sᴇᴇ..
 
@@ -99,10 +99,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴅᴀʀᴋx](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg) ʜᴇʀᴇ.
+ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [𓆩ɖǟʀӄӼɮօȶ𓆪](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg) ʜᴇʀᴇ.
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ.."""
 
-yone_IMG = "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg"
+𓆩ɖǟʀӄӼɮօȶ𓆪_IMG = "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate! Actually I don't need money..
  You can support us by promoting our bot.. \
@@ -351,14 +351,14 @@ def yone_about_callback(update, context):
     query = update.callback_query
     if query.data == "yone_":
         query.message.edit_text(
-            text=""" ℹ️ ɪ'ᴍ ᴅᴀʀᴋxᴠ2.0, ᴀ ᴘᴏᴡᴇʀғᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀsɪʟʏ.
+            text=""" ℹ️ ɪ'ᴍ 𓆩ɖǟʀӄӼɮօȶ𓆪, ᴀ ᴘᴏᴡᴇʀғᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀsɪʟʏ.
                  \n❍ I ᴄᴀɴ ʀᴇsᴛʀɪᴄᴛ ᴜsᴇʀs.
                  \n❍ I ᴄᴀɴ ɢʀᴇᴇᴛ ᴜsᴇʀs ᴡɪᴛʜ ᴄᴜsᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇssᴀɢᴇs ᴀɴᴅ ᴇᴠᴇɴ sᴇᴛ ᴀ ɢʀᴏᴜᴘ's ʀᴜʟᴇs.
                  \n❍ I ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ғʟᴏᴏᴅ sʏsᴛᴇᴍ.
                  \n❍ I ᴄᴀɴ ᴡᴀʀɴ ᴜsᴇʀs ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴs, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇғɪɴᴇᴅ ᴀᴄᴛɪᴏɴs sᴜᴄʜ ᴀs ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ.
                  \n❍ I ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ sʏsᴛᴇᴍ, ʙʟᴀᴄᴋʟɪsᴛs, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇs ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅs.
                  \n❍ I ᴄʜᴇᴄᴋ ғᴏʀ ᴀᴅᴍɪɴs' ᴘᴇʀᴍɪssɪᴏɴs ʙᴇғᴏʀᴇ ᴇxᴇᴄᴜᴛɪɴɢ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴍᴏʀᴇ sᴛᴜғғs
-                 \n\n_ᴅᴀʀᴋxᴠ2.0's ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ GNU Gᴇɴᴇʀᴀʟ Pᴜʙʟɪᴄ Lɪᴄᴇɴsᴇ ᴠ3.0_
+                 \n\n_𓆩ɖǟʀӄӼɮօȶ𓆪's ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ GNU Gᴇɴᴇʀᴀʟ Pᴜʙʟɪᴄ Lɪᴄᴇɴsᴇ ᴠ3.0_
                  \nHᴇʀᴇ ɪs ᴛʜᴇ [💾Rᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/Darkaman5/Darkx-v2).
                  \n\nIғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴏ̨ᴜᴇsᴛɪᴏɴ ᴀʙᴏᴜᴛ ʏᴏɴᴇ, ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ @DARKV2SUPPORT.""",
             parse_mode=ParseMode.MARKDOWN,
