@@ -45,6 +45,8 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ...
 
 ## • Jᴀss Mᴀɴᴀᴋ  »»  <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b0559d?logo=github" /></a>
 
+## • Pʀᴏ Bᴏʏ X  »»  <a href="https://github.com/ProBoy-X/Kakashi" alt="PʀᴏBᴏʏ-X"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏ-X-b0559d?logo=github" /></a>
+
 ## • Yᴏɴᴇ Rᴏʙᴏᴛ  »»  <a href="https://github.com/noob-kittu/YoneRobot" alt="Yᴏɴᴇ Rᴏʙᴏᴛ"> <img src="https://img.shields.io/badge/Yᴏɴᴇ Rᴏʙᴏᴛ-47f8eb?logo=github" /></a>
 
 
