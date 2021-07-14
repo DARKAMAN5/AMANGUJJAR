@@ -5,7 +5,7 @@
                                                      
 ## DARKX :-
 
-ᴅᴀʀᴋx ᴠ2 ɪs ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ [ᴍᴇ](https://github.com/DARKAMAN) ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘ..
+𓆩ɖǟʀӄӼɮօȶ𓆪 ɪs ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ [ᴍᴇ](https://github.com/DARKAMAN) ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘ..
 
 Jᴜsᴛ ᴛʀʏ [ᴛʜɪs](https://t.me/DARKXV2BOT) sᴜᴘᴇʀʙᴏᴛ ʙʏ ᴀᴅᴅɪɴɢ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. 
 
@@ -54,5 +54,5 @@ Tʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ [DᴀʀᴋAᴍᴀɴ](https://t.me/
 
 Sᴏ ɪғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ ᴛʜɪs ʙᴏᴛ ᴊᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ <a href="https://github.com/JassManak1125" alt="Jᴀss Mᴀɴᴀᴋ"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-b07677d?logo=github" /></a> ᴀɴᴅ <a href="https://github.com/ProBoy-X/Kakashi" alt="PʀᴏBᴏʏ-X"> <img src="https://img.shields.io/badge/PʀᴏBᴏʏ-X-b0559d?logo=github" /></a>
 
-  ғᴏʀ ᴍʏ ʜᴀʀᴅ ᴡᴏʀᴋ..😉
+  ғᴏʀ ʜᴇʀ ʜᴀʀᴅ ᴡᴏʀᴋ..😉
 
