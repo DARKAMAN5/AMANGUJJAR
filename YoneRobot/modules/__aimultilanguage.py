@@ -69,7 +69,7 @@ async def hmm(_, message):
         lel = await edit_or_reply(message, "`Processing...`")
         Escobar = remove_chat(int(message.chat.id))
         if not Escobar:
-            await lel.edit𓆩ɖǟʀӄӼɮօȶ𓆪 AI Was Not Activated In This Chat")
+            await lel.editDARKX AI Was Not Activated In This Chat")
             return
         await lel.edit(
             f"𓆩ɖǟʀӄӼɮօȶ𓆪 AI Successfully Deactivated For Users In The Chat {message.chat.id}"
