@@ -69,10 +69,10 @@ async def hmm(_, message):
         lel = await edit_or_reply(message, "`Processing...`")
         Escobar = remove_chat(int(message.chat.id))
         if not Escobar:
-            await lel.edit("Kakashi AI Was Not Activated In This Chat")
+            await lel.edit𓆩ɖǟʀӄӼɮօȶ𓆪 AI Was Not Activated In This Chat")
             return
         await lel.edit(
-            f"Kakashi AI Successfully Deactivated For Users In The Chat {message.chat.id}"
+            f"𓆩ɖǟʀӄӼɮօȶ𓆪 AI Successfully Deactivated For Users In The Chat {message.chat.id}"
         )
 
     elif status == "EN" or status == "en" or status == "english":
@@ -114,9 +114,9 @@ async def hmm(client, message):
         message.continue_propagation()
     if chat_id in en_chats:
         test = msg
-        test = test.replace("Kakashi", "Aco")
-        test = test.replace("Kakashi", "Aco")
-        URL = "https://api.affiliateplus.xyz/api/chatbot?message=hi&botname=@HatakeRoBot&ownername=@Its_JassManak"
+        test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+        test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+        URL = "https://api.affiliateplus.xyz/api/chatbot?message=hi&botname=@DARKXV2BOT&ownername=@DARKAMAN"
 
         try:
             r = requests.request("GET", url=URL)
@@ -177,9 +177,9 @@ async def hmm(client, message):
         # test = emoji.demojize(test.strip())
 
         # Kang with the credits bitches @InukaASiTH
-        test = test.replace("Kakashi", "Aco")
-        test = test.replace("Kakashi", "Aco")
-        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@HatakeRoBot&ownername=@Its_JassManak"
+        test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+        test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@DARKXV2BOT&ownername=@DARKAMAN"
         try:
             r = requests.request("GET", url=URL)
         except:
@@ -251,9 +251,9 @@ async def inuka(client, message):
     # test = emoji.demojize(test.strip())
 
     # Kang with the credits bitches @InukaASiTH
-    test = test.replace("Kakashi", "Aco")
-    test = test.replace("Kakashi", "Aco")
-    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@HatakeRoBot&ownername=@Its_JassManak"
+    test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+    test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@DARKXV2BOT&ownername=@DARKAMAN"
     try:
         r = requests.request("GET", url=URL)
     except:
@@ -275,7 +275,7 @@ async def inuka(client, message):
 
 
 @Yone.on_message(
-    filters.regex("Kakashi|Kakashi|Kakashi|Kakashi|Kakashi")
+    filters.regex("𓆩ɖǟʀӄӼɮօȶ𓆪|𓆩ɖǟʀӄӼɮօȶ𓆪|𓆩ɖǟʀӄӼɮօȶ𓆪|𓆩ɖǟʀӄӼɮօȶ𓆪|𓆩ɖǟʀӄӼɮօȶ𓆪")
     & ~filters.bot
     & ~filters.via_bot
     & ~filters.forwarded
@@ -329,9 +329,9 @@ async def inuka(client, message):
     # test = emoji.demojize(test.strip())
 
     # Kang with the credits bitches @InukaASiTH
-    test = test.replace("Kakashi", "Aco")
-    test = test.replace("Kakashi", "Aco")
-    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@HatakeRobot&ownername=@Its_JassManak"
+    test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+    test = test.replace("𓆩ɖǟʀӄӼɮօȶ𓆪", "Aco")
+    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@DARKXV2BOT&ownername=@DARKAMAN"
     try:
         r = requests.request("GET", url=URL)
     except:
@@ -355,8 +355,7 @@ async def inuka(client, message):
 
 
 __help__ = """
-<b> Chatbot </b>
-Kakashi AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
+<b> Chatbot </𓆩ɖǟʀӄӼɮօȶ𓆪 AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
  - /chatbot [ON/OFF]: Enables and disables AI Chat mode (EXCLUSIVE)
  - /chatbot EN : Enables English only chatbot
  
