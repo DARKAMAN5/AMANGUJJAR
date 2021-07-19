@@ -27,5 +27,5 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 :: your commands begin from this point.
 :: stops the service and then starts it 
-net stop Kakashi Robot
-net start Kakashi Robot
+net stop DARKXV2BOT
+net start DARKXV2BOT
