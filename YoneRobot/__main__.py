@@ -386,7 +386,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Heyy, I'm DARKX-V2.0
+            text=""" Heyy, I'M 𓆩ɖǟʀӄӼɮօȶ𓆪
                  \nHere is the [Source Code](https://github.com/Darkaman5/Darkx-v2) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
